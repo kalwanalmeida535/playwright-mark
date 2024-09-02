@@ -1,6 +1,10 @@
 {
   "devDependencies": {
-    "@playwright/test": "^1.32.1"
+    "@faker-js/faker": "^8.4.1",
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.4.1",
+    "dotenv": "^16.4.5"
   },
-  "scripts": {}
+  "scripts": {},
+  "packageManager": "yarn@1.22.19+sha1.4ba7fc5c6e704fce2066ecbfb0b0d8976fe62447"
 }
